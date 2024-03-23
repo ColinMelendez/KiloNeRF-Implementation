@@ -3,7 +3,7 @@ A basic implementation of the KiloNeRF novel view genrative model.
 
 Some training data to get started can be [downloaded from here](https://drive.google.com/drive/folders/18bwm-RiHETRCS5yD9G00seFIcrJHIvD-)
 
-Using that training data with the default settings in the codebase is how the example images found in the novel_views folder were generated.
+Using that training data with the default settings in the codebase is how the small sample of example images found in the novel_views folder were generated.
 
 The simplest way to run this codebase is with Google Colab, as the model takes a significant amount of time/horsepower to train.
 
